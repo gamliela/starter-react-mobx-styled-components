@@ -1,12 +1,11 @@
-# starter-react-mobx-css-modules
-My starter kit for projects based on React, MobX, CSS Modules and TypeScript.
+# starter-react-mobx-styled-components
+My starter kit for projects based on React, MobX, Styled Components and TypeScript.
 
 This kit consists of the latest versions of:
 * React
 * Webpack
 * MobX
-* SCSS
-* CSS Modules
+* Styled Components
 * TypeScript
 
 #### Build Instructions
